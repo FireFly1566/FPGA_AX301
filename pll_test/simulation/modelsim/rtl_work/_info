@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/QuartusSpace/pll_test/simulation/modelsim
+T_opt
+!s110 1495685797
+V[kdlEUXFdge;1@ACNL_<z1
+04 11 4 work pll_test_tb fast 0
+=1-00c2c617ecd8-59265aa5-21-187c
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vpll
+!s110 1495685795
+!i10b 1
+!s100 n<Y><F2jJADA?CnVCg;Qk3
+I?Y>?4>FgiSH5QUdzjoM8z2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1495685174
+8E:/QuartusSpace/pll_test/ipcore/pll.v
+FE:/QuartusSpace/pll_test/ipcore/pll.v
+L0 39
+Z2 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1495685795.773000
+!s107 E:/QuartusSpace/pll_test/ipcore/pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/QuartusSpace/pll_test/ipcore|E:/QuartusSpace/pll_test/ipcore/pll.v|
+!i113 0
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+E:/QuartusSpace/pll_test/ipcore -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vpll_altpll
+Z4 !s110 1495685796
+!i10b 1
+!s100 WJ1=d@nS@=g[N3ce[ce0H3
+IAPTK:AhSOUT5JFiYUni>b1
+R1
+R0
+w1495685449
+8E:/QuartusSpace/pll_test/db/pll_altpll.v
+FE:/QuartusSpace/pll_test/db/pll_altpll.v
+L0 30
+R2
+r1
+!s85 0
+31
+!s108 1495685796.443000
+!s107 E:/QuartusSpace/pll_test/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/QuartusSpace/pll_test/db|E:/QuartusSpace/pll_test/db/pll_altpll.v|
+!i113 0
+R3
+!s92 -vlog01compat -work work +incdir+E:/QuartusSpace/pll_test/db -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vpll_test
+R4
+!i10b 1
+!s100 9c_QK4GIJ6hEDPjemaYYR3
+I==Aa_2RDzXclbQ5[7E]ej3
+R1
+R0
+w1495685432
+8E:/QuartusSpace/pll_test/pll_test.v
+FE:/QuartusSpace/pll_test/pll_test.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1495685796.263000
+!s107 E:/QuartusSpace/pll_test/pll_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/QuartusSpace/pll_test|E:/QuartusSpace/pll_test/pll_test.v|
+!i113 0
+R3
+!s92 -vlog01compat -work work +incdir+E:/QuartusSpace/pll_test -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vpll_test_tb
+R4
+!i10b 1
+!s100 LA?oYM3C=]AjOmFlFJ9_[0
+I;lD6ng<6_J>_@K4j[3@D31
+R1
+R0
+w1495685689
+8E:/QuartusSpace/pll_test/simulation/modelsim/pll_test.vt
+FE:/QuartusSpace/pll_test/simulation/modelsim/pll_test.vt
+L0 28
+R2
+r1
+!s85 0
+31
+!s108 1495685796.563000
+!s107 E:/QuartusSpace/pll_test/simulation/modelsim/pll_test.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/QuartusSpace/pll_test/simulation/modelsim|E:/QuartusSpace/pll_test/simulation/modelsim/pll_test.vt|
+!i113 0
+R3
+!s92 -vlog01compat -work work +incdir+E:/QuartusSpace/pll_test/simulation/modelsim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
